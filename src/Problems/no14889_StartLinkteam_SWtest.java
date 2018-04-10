@@ -27,6 +27,6 @@ public class no14889_StartLinkteam_SWtest {
             }
         }
 
-        //예를 들어~ 부분이 DP수식의 힌트가 되는 듯?-!!
+        //예를 들어~ 부분이 DP수식의 힌트가 되는 듯?-!!!!
     }
 }
