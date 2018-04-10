@@ -1,82 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bd2f0d7e-f713-4823-b5c4-40c7e1443a76" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/bin/.gitignore" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/bin/Collections/ArrayList_test.class" afterPath="$PROJECT_DIR$/bin/Collections/ArrayList_test.class" />
-      <change beforePath="$PROJECT_DIR$/bin/Collections/Map_test.class" afterPath="$PROJECT_DIR$/bin/Collections/Map_test.class" />
-      <change beforePath="$PROJECT_DIR$/bin/Collections/Queue_test.class" afterPath="$PROJECT_DIR$/bin/Collections/Queue_test.class" />
-      <change beforePath="$PROJECT_DIR$/bin/Collections/Stack_test.class" afterPath="$PROJECT_DIR$/bin/Collections/Stack_test.class" />
-      <change beforePath="$PROJECT_DIR$/bin/Etc/Abstract_example.class" afterPath="$PROJECT_DIR$/bin/Etc/Abstract_example.class" />
-      <change beforePath="$PROJECT_DIR$/bin/Etc/Extends_example.class" afterPath="$PROJECT_DIR$/bin/Etc/Extends_example.class" />
-      <change beforePath="$PROJECT_DIR$/bin/Etc/Implements_example.class" afterPath="$PROJECT_DIR$/bin/Etc/Implements_example.class" />
-      <change beforePath="$PROJECT_DIR$/bin/Graph/Dfs_Bfs.class" afterPath="$PROJECT_DIR$/bin/Graph/Dfs_Bfs.class" />
-      <change beforePath="$PROJECT_DIR$/bin/Graph/test.class" afterPath="$PROJECT_DIR$/bin/Graph/test.class" />
-      <change beforePath="$PROJECT_DIR$/bin/Last_Algorithm/Addcycle.class" afterPath="$PROJECT_DIR$/bin/Last_Algorithm/Addcycle.class" />
-      <change beforePath="$PROJECT_DIR$/bin/Last_Algorithm/AplusB.class" afterPath="$PROJECT_DIR$/bin/Last_Algorithm/AplusB.class" />
-      <change beforePath="$PROJECT_DIR$/bin/Last_Algorithm/Baekjoon_practice1_20161107.class" afterPath="$PROJECT_DIR$/bin/Last_Algorithm/Baekjoon_practice1_20161107.class" />
-      <change beforePath="$PROJECT_DIR$/bin/Last_Algorithm/Baekjoon_practice2_priorityQueue.class" afterPath="$PROJECT_DIR$/bin/Last_Algorithm/Baekjoon_practice2_priorityQueue.class" />
-      <change beforePath="$PROJECT_DIR$/bin/Last_Algorithm/Baekjoon_practice3_priorityQueue$Compare.class" afterPath="$PROJECT_DIR$/bin/Last_Algorithm/Baekjoon_practice3_priorityQueue$Compare.class" />
-      <change beforePath="$PROJECT_DIR$/bin/Last_Algorithm/Baekjoon_practice3_priorityQueue.class" afterPath="$PROJECT_DIR$/bin/Last_Algorithm/Baekjoon_practice3_priorityQueue.class" />
-      <change beforePath="$PROJECT_DIR$/bin/Last_Algorithm/ClaimNum.class" afterPath="$PROJECT_DIR$/bin/Last_Algorithm/ClaimNum.class" />
-      <change beforePath="$PROJECT_DIR$/bin/Last_Algorithm/Coin.class" afterPath="$PROJECT_DIR$/bin/Last_Algorithm/Coin.class" />
-      <change beforePath="$PROJECT_DIR$/bin/Last_Algorithm/DP_ClaimNum_160831.class" afterPath="$PROJECT_DIR$/bin/Last_Algorithm/DP_ClaimNum_160831.class" />
-      <change beforePath="$PROJECT_DIR$/bin/Last_Algorithm/DP_LIS_Line_160902.class" afterPath="$PROJECT_DIR$/bin/Last_Algorithm/DP_LIS_Line_160902.class" />
-      <change beforePath="$PROJECT_DIR$/bin/Last_Algorithm/DP_Moving_160804.class" afterPath="$PROJECT_DIR$/bin/Last_Algorithm/DP_Moving_160804.class" />
-      <change beforePath="$PROJECT_DIR$/bin/Last_Algorithm/DP_RGBcolor_160809.class" afterPath="$PROJECT_DIR$/bin/Last_Algorithm/DP_RGBcolor_160809.class" />
-      <change beforePath="$PROJECT_DIR$/bin/Last_Algorithm/Dongjunsgame.class" afterPath="$PROJECT_DIR$/bin/Last_Algorithm/Dongjunsgame.class" />
-      <change beforePath="$PROJECT_DIR$/bin/Last_Algorithm/Goldenfish.class" afterPath="$PROJECT_DIR$/bin/Last_Algorithm/Goldenfish.class" />
-      <change beforePath="$PROJECT_DIR$/bin/Last_Algorithm/Linee.class" afterPath="$PROJECT_DIR$/bin/Last_Algorithm/Linee.class" />
-      <change beforePath="$PROJECT_DIR$/bin/Last_Algorithm/Main.class" afterPath="$PROJECT_DIR$/bin/Last_Algorithm/Main.class" />
-      <change beforePath="$PROJECT_DIR$/bin/Last_Algorithm/Moving.class" afterPath="$PROJECT_DIR$/bin/Last_Algorithm/Moving.class" />
-      <change beforePath="$PROJECT_DIR$/bin/Last_Algorithm/Numtriangle.class" afterPath="$PROJECT_DIR$/bin/Last_Algorithm/Numtriangle.class" />
-      <change beforePath="$PROJECT_DIR$/bin/Last_Algorithm/RGBcolor.class" afterPath="$PROJECT_DIR$/bin/Last_Algorithm/RGBcolor.class" />
-      <change beforePath="$PROJECT_DIR$/bin/Last_Algorithm/RecordMaker.class" afterPath="$PROJECT_DIR$/bin/Last_Algorithm/RecordMaker.class" />
-      <change beforePath="$PROJECT_DIR$/bin/Last_Algorithm/Ruler.class" afterPath="$PROJECT_DIR$/bin/Last_Algorithm/Ruler.class" />
-      <change beforePath="$PROJECT_DIR$/bin/Last_Algorithm/Ruler_160730.class" afterPath="$PROJECT_DIR$/bin/Last_Algorithm/Ruler_160730.class" />
-      <change beforePath="$PROJECT_DIR$/bin/Last_Algorithm/TDSum.class" afterPath="$PROJECT_DIR$/bin/Last_Algorithm/TDSum.class" />
-      <change beforePath="$PROJECT_DIR$/bin/Last_Algorithm/Tournament.class" afterPath="$PROJECT_DIR$/bin/Last_Algorithm/Tournament.class" />
-      <change beforePath="$PROJECT_DIR$/bin/Last_Algorithm/Tournament_160730.class" afterPath="$PROJECT_DIR$/bin/Last_Algorithm/Tournament_160730.class" />
-      <change beforePath="$PROJECT_DIR$/bin/Last_Algorithm/UphillRoad.class" afterPath="$PROJECT_DIR$/bin/Last_Algorithm/UphillRoad.class" />
-      <change beforePath="$PROJECT_DIR$/bin/Last_Algorithm/X_two.class" afterPath="$PROJECT_DIR$/bin/Last_Algorithm/X_two.class" />
-      <change beforePath="$PROJECT_DIR$/bin/Last_Algorithm/differValue.class" afterPath="$PROJECT_DIR$/bin/Last_Algorithm/differValue.class" />
-      <change beforePath="$PROJECT_DIR$/bin/Last_Algorithm/fibonacci.class" afterPath="$PROJECT_DIR$/bin/Last_Algorithm/fibonacci.class" />
-      <change beforePath="$PROJECT_DIR$/bin/Last_Algorithm/findsosu.class" afterPath="$PROJECT_DIR$/bin/Last_Algorithm/findsosu.class" />
-      <change beforePath="$PROJECT_DIR$/bin/Last_Algorithm/imchef.class" afterPath="$PROJECT_DIR$/bin/Last_Algorithm/imchef.class" />
-      <change beforePath="$PROJECT_DIR$/bin/Last_Algorithm/no10815_numbercard_161107.class" afterPath="$PROJECT_DIR$/bin/Last_Algorithm/no10815_numbercard_161107.class" />
-      <change beforePath="$PROJECT_DIR$/bin/Last_Algorithm/no1699_DP_Xtwo_160918.class" afterPath="$PROJECT_DIR$/bin/Last_Algorithm/no1699_DP_Xtwo_160918.class" />
-      <change beforePath="$PROJECT_DIR$/bin/Last_Algorithm/no1764_Map_161107.class" afterPath="$PROJECT_DIR$/bin/Last_Algorithm/no1764_Map_161107.class" />
-      <change beforePath="$PROJECT_DIR$/bin/Last_Algorithm/no2750_Numsort_160926.class" afterPath="$PROJECT_DIR$/bin/Last_Algorithm/no2750_Numsort_160926.class" />
-      <change beforePath="$PROJECT_DIR$/bin/Last_Algorithm/scale.class" afterPath="$PROJECT_DIR$/bin/Last_Algorithm/scale.class" />
-      <change beforePath="$PROJECT_DIR$/bin/Problems/Elements.class" afterPath="$PROJECT_DIR$/bin/Problems/Elements.class" />
-      <change beforePath="$PROJECT_DIR$/bin/Problems/SM_aboutHash.class" afterPath="$PROJECT_DIR$/bin/Problems/SM_aboutHash.class" />
-      <change beforePath="$PROJECT_DIR$/bin/Problems/SM_findString.class" afterPath="$PROJECT_DIR$/bin/Problems/SM_findString.class" />
-      <change beforePath="$PROJECT_DIR$/bin/Problems/SM_numberTonumber.class" afterPath="$PROJECT_DIR$/bin/Problems/SM_numberTonumber.class" />
-      <change beforePath="$PROJECT_DIR$/bin/Problems/coordinate.class" afterPath="$PROJECT_DIR$/bin/Problems/coordinate.class" />
-      <change beforePath="$PROJECT_DIR$/bin/Problems/no1012_BaeChuu_DFS.class" afterPath="$PROJECT_DIR$/bin/Problems/no1012_BaeChuu_DFS.class" />
-      <change beforePath="$PROJECT_DIR$/bin/Problems/no11403_FindaWay_BFS.class" afterPath="$PROJECT_DIR$/bin/Problems/no11403_FindaWay_BFS.class" />
-      <change beforePath="$PROJECT_DIR$/bin/Problems/no11403_FindaWay_DFS.class" afterPath="$PROJECT_DIR$/bin/Problems/no11403_FindaWay_DFS.class" />
-      <change beforePath="$PROJECT_DIR$/bin/Problems/no11727_2xN_tailing_DP.class" afterPath="$PROJECT_DIR$/bin/Problems/no11727_2xN_tailing_DP.class" />
-      <change beforePath="$PROJECT_DIR$/bin/Problems/no14499_RollingDice_prepSW.class" afterPath="$PROJECT_DIR$/bin/Problems/no14499_RollingDice_prepSW.class" />
-      <change beforePath="$PROJECT_DIR$/bin/Problems/no1697_HideAndSeek_BFS.class" afterPath="$PROJECT_DIR$/bin/Problems/no1697_HideAndSeek_BFS.class" />
-      <change beforePath="$PROJECT_DIR$/bin/Problems/no1987_alphabat_DFS.class" afterPath="$PROJECT_DIR$/bin/Problems/no1987_alphabat_DFS.class" />
-      <change beforePath="$PROJECT_DIR$/bin/Problems/no2178_FindaWayInMaze_BFS.class" afterPath="$PROJECT_DIR$/bin/Problems/no2178_FindaWayInMaze_BFS.class" />
-      <change beforePath="$PROJECT_DIR$/bin/Problems/no2468_SafeArea_BFS.class" afterPath="$PROJECT_DIR$/bin/Problems/no2468_SafeArea_BFS.class" />
-      <change beforePath="$PROJECT_DIR$/bin/Problems/no2667_NumberingForHouse_DFS.class" afterPath="$PROJECT_DIR$/bin/Problems/no2667_NumberingForHouse_DFS.class" />
-      <change beforePath="$PROJECT_DIR$/bin/Problems/no3070_entrytest_prepSW.class" afterPath="$PROJECT_DIR$/bin/Problems/no3070_entrytest_prepSW.class" />
-      <change beforePath="$PROJECT_DIR$/bin/Problems/no7562_NightionChass_BFS.class" afterPath="$PROJECT_DIR$/bin/Problems/no7562_NightionChass_BFS.class" />
-      <change beforePath="$PROJECT_DIR$/bin/Problems/no7576_Tomato_BFS.class" afterPath="$PROJECT_DIR$/bin/Problems/no7576_Tomato_BFS.class" />
-      <change beforePath="$PROJECT_DIR$/bin/Problems/try_no12100_BoardGame_prepSW.class" afterPath="$PROJECT_DIR$/bin/Problems/try_no12100_BoardGame_prepSW.class" />
-      <change beforePath="$PROJECT_DIR$/bin/Problems/try_no13460_zzeroexit2_prepSW.class" afterPath="$PROJECT_DIR$/bin/Problems/try_no13460_zzeroexit2_prepSW.class" />
-      <change beforePath="$PROJECT_DIR$/bin/Sort/Bubble_sort.class" afterPath="$PROJECT_DIR$/bin/Sort/Bubble_sort.class" />
-      <change beforePath="$PROJECT_DIR$/bin/Sort/Insertion_sort.class" afterPath="$PROJECT_DIR$/bin/Sort/Insertion_sort.class" />
-      <change beforePath="$PROJECT_DIR$/bin/Sort/Merge_sort.class" afterPath="$PROJECT_DIR$/bin/Sort/Merge_sort.class" />
-      <change beforePath="$PROJECT_DIR$/bin/Sort/Quick_sort.class" afterPath="$PROJECT_DIR$/bin/Sort/Quick_sort.class" />
-      <change beforePath="$PROJECT_DIR$/bin/Sort/Selection_sort.class" afterPath="$PROJECT_DIR$/bin/Sort/Selection_sort.class" />
-      <change beforePath="$PROJECT_DIR$/bin/model/models.class" afterPath="$PROJECT_DIR$/bin/model/models.class" />
-      <change beforePath="$PROJECT_DIR$/src/Problems/no14891_wheel_SWtest.java" afterPath="$PROJECT_DIR$/src/Problems/no14891_wheel_SWtest.java" />
-    </list>
+    <list default="true" id="bd2f0d7e-f713-4823-b5c4-40c7e1443a76" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/bin/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -90,7 +15,7 @@
       <file leaf-file-name="no14499_RollingDice_prepSW.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Problems/no14499_RollingDice_prepSW.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="384">
+            <state relative-caret-position="575">
               <caret line="25" column="29" lean-forward="false" selection-start-line="25" selection-start-column="29" selection-end-line="25" selection-end-column="29" />
               <folding />
             </state>
@@ -100,8 +25,8 @@
       <file leaf-file-name="no14889_StartLinkteam_SWtest.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Problems/no14889_StartLinkteam_SWtest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-114">
-              <caret line="8" column="14" lean-forward="true" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
+            <state relative-caret-position="667">
+              <caret line="29" column="32" lean-forward="false" selection-start-line="29" selection-start-column="32" selection-end-line="29" selection-end-column="32" />
               <folding />
             </state>
           </provider>
@@ -170,7 +95,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
+      <pane id="AndroidView" />
       <pane id="Scratches" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
@@ -195,7 +120,7 @@
           <select />
         </subPane>
       </pane>
-      <pane id="AndroidView" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -367,18 +292,18 @@
       <workItem from="1523296688679" duration="4049000" />
       <workItem from="1523374418634" duration="9081000" />
       <workItem from="1523386192530" duration="1202000" />
+      <workItem from="1523387534999" duration="24000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="23734000" />
+    <option name="totallyTimeSpent" value="23758000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="0" width="1053" height="1047" extended-state="0" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3290461" sideWeight="0.4927676" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -403,6 +328,7 @@
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3290461" sideWeight="0.4927676" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
@@ -418,6 +344,22 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/Problems/no14499_RollingDice_prepSW.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="575">
+          <caret line="25" column="29" lean-forward="false" selection-start-line="25" selection-start-column="29" selection-end-line="25" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Problems/no14889_StartLinkteam_SWtest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="8" column="14" lean-forward="true" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/Problems/no14499_RollingDice_prepSW.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -469,7 +411,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="200">
           <caret line="591" column="0" lean-forward="false" selection-start-line="591" selection-start-column="0" selection-end-line="591" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -482,7 +423,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Problems/no14499_RollingDice_prepSW.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="384">
+        <state relative-caret-position="575">
           <caret line="25" column="29" lean-forward="false" selection-start-line="25" selection-start-column="29" selection-end-line="25" selection-end-column="29" />
           <folding />
         </state>
@@ -500,8 +441,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Problems/no14889_StartLinkteam_SWtest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-114">
-          <caret line="8" column="14" lean-forward="true" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
+        <state relative-caret-position="667">
+          <caret line="29" column="32" lean-forward="false" selection-start-line="29" selection-start-column="32" selection-end-line="29" selection-end-column="32" />
           <folding />
         </state>
       </provider>
