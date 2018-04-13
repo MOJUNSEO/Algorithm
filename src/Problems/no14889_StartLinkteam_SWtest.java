@@ -79,6 +79,7 @@ public class no14889_StartLinkteam_SWtest {
             }
         }
 
+<<<<<<< HEAD
         int aAbility = getStat(a);
         int bAbility = getStat(b);
         int differValue = Math.abs(aAbility - bAbility);
@@ -86,6 +87,9 @@ public class no14889_StartLinkteam_SWtest {
         {
             min = differValue;
         }
+=======
+        //예를 들어~ 부분이 DP수식의 힌트가 되는 듯?-!!
+>>>>>>> 283c072f11557368a83459815f032b8a5bc45290
     }
 
 
