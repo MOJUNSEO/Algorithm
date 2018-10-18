@@ -52,7 +52,8 @@ public class no1475_roomNumber {
 					arr[i]++;
 				}
 			}
+			System.out.println(setNum);
 		}
-		System.out.println(setNum);
+		//System.out.println(setNum);
 	}
 }
