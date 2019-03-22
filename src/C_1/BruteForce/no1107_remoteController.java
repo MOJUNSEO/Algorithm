@@ -1,4 +1,4 @@
-package C.BruteForce;
+package C_1.BruteForce;
 
 import java.util.Scanner;
 /*

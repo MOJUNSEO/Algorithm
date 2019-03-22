@@ -53,9 +53,9 @@ public class Step1_RExpression {
 			inputstr = sc.nextLine();
 			checkPHONENUMBER(inputstr);
 			break;
-			default : 
-				System.out.println("메뉴 번호를 확인하세요.");
-				break;
+		default : 
+			System.out.println("메뉴 번호를 확인하세요.");
+			break;
 		}
 		
 		sc.close();
@@ -96,10 +96,9 @@ public class Step1_RExpression {
 		return;
 	}
 	
-	// 20190321 이거하고 비트연산 , 진법 문제  
 	private static void checkEMAIL(String str)
 	{
-		p = Pattern.compile("^([A-z0-9])+@([A-z])$");
+		p = Pattern.compile("^([A-z0-9]+)@([A-z]+)(.com||.co.kr)$");
 		m = p.matcher(str);
 		
 		if(m.find())
@@ -116,7 +115,7 @@ public class Step1_RExpression {
 	
 	private static void checkPHONENUMBER(String str)
 	{
-		p = Pattern.compile("");
+		p = Pattern.compile("^(010||011||018||019)-([0-9]+{3,4})-([0-9]+{3,4})$");
 		m = p.matcher(str);
 		
 		if(m.find())
