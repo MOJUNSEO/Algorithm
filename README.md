@@ -9,4 +9,9 @@
  - 아스키 코드 : 48 -> 0 / 65 -> A / 97 -> a : 문자열처리에 많이 쓰임.
  - 정규식 : Ref_Examples.Example_RegularExpression : 문자열처리에 많이 쓰임 .
  - Scanner -> 1024 chars / 문자열 구별 가능 / 동기화X / Exception X
- - BufferReader -> 8192 chars / 문자열 단순 읽고 저장 / 동기화O / 즉시 IOException 던짐. 
+ - BufferReader -> 8192 chars / 문자열 단순 읽고 저장 / 동기화O / 즉시 IOException 던짐.
+ 
+# ref.
+ - https://swexpertacademy.com
+ - https://leetcode.com/problemset/all/
+ - https://www.acmicpc.net/
