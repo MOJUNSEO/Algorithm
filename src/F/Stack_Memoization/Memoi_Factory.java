@@ -14,7 +14,6 @@ public class Memoi_Factory {
 		sc.close();
 		System.out.println(result);
 		return;
-		
 	}
 	
 	private static void factorial(int x)
