@@ -98,7 +98,7 @@ public class SW1959_Trail {
                                 //공사해야함 1~K까지 하는경우는 다음 진로에 영향을 미치기떄문
                                 for(int w = 1; w <=K; w++)
                                 {
-                                    DFS
+                                    //DFS()
                                 }
                             }
                         }
